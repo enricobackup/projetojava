@@ -1,0 +1,1447 @@
+2025-05-26 08:14:51 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 08:14:51 - INFO - Iniciando carregamento de dados...
+2025-05-26 08:14:51 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 08:14:51 - INFO - Arquivo cursos.csv não encontrado. Retornando lista vazia.
+2025-05-26 08:14:51 - INFO - 0 cursos carregados.
+2025-05-26 08:14:51 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 08:14:51 - INFO - Arquivo materias.csv não encontrado. Retornando lista vazia.
+2025-05-26 08:14:51 - INFO - 0 matérias carregadas.
+2025-05-26 08:14:51 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 08:14:51 - INFO - Arquivo alunos.csv não encontrado. Retornando lista vazia.
+2025-05-26 08:14:51 - INFO - 0 alunos carregados.
+2025-05-26 08:14:51 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 08:14:51 - INFO - Arquivo professores.csv não encontrado. Retornando lista vazia.
+2025-05-26 08:14:51 - INFO - 0 professores carregados.
+2025-05-26 08:14:51 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 08:14:51 - INFO - Arquivo notas.csv não encontrado. Retornando lista vazia.
+2025-05-26 08:14:51 - INFO - 0 notas carregadas.
+2025-05-26 08:14:51 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 08:14:51 - INFO - Ligação de referências concluída.
+2025-05-26 08:14:51 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 08:15:49 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 08:15:49 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 08:15:49 - INFO - Arquivo cursos.csv escrito com sucesso com 1 registros.
+2025-05-26 08:15:49 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 08:15:49 - INFO - Arquivo materias.csv escrito com sucesso com 0 registros.
+2025-05-26 08:15:49 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 08:15:49 - INFO - Arquivo alunos.csv escrito com sucesso com 0 registros.
+2025-05-26 08:15:49 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 08:15:49 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 08:15:49 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 08:15:49 - INFO - Arquivo notas.csv escrito com sucesso com 0 registros.
+2025-05-26 08:15:49 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 08:15:49 - INFO - Curso adicionado: CC01 - Ciência da Computação
+2025-05-26 08:15:49 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 08:16:07 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 08:16:07 - INFO - Iniciando carregamento de dados...
+2025-05-26 08:16:07 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 08:16:07 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 08:16:07 - INFO - 1 cursos carregados.
+2025-05-26 08:16:07 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 08:16:07 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 08:16:07 - INFO - 0 matérias carregadas.
+2025-05-26 08:16:07 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 08:16:07 - INFO - Arquivo alunos.csv lido com sucesso. 0 registros carregados.
+2025-05-26 08:16:07 - INFO - 0 alunos carregados.
+2025-05-26 08:16:07 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 08:16:07 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 08:16:07 - INFO - 0 professores carregados.
+2025-05-26 08:16:07 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 08:16:07 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 08:16:07 - INFO - 0 notas carregadas.
+2025-05-26 08:16:07 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 08:16:07 - INFO - Ligação de referências concluída.
+2025-05-26 08:16:07 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:37:14 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:37:14 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:37:14 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:37:14 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:37:14 - INFO - 1 cursos carregados.
+2025-05-26 09:37:14 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:37:14 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:14 - INFO - 0 matérias carregadas.
+2025-05-26 09:37:14 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:37:14 - INFO - Arquivo alunos.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:14 - INFO - 0 alunos carregados.
+2025-05-26 09:37:14 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:37:14 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:14 - INFO - 0 professores carregados.
+2025-05-26 09:37:14 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:37:14 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:14 - INFO - 0 notas carregadas.
+2025-05-26 09:37:14 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:37:14 - INFO - Ligação de referências concluída.
+2025-05-26 09:37:14 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:37:14 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:37:28 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:37:28 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:37:28 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:37:28 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:37:28 - INFO - 1 cursos carregados.
+2025-05-26 09:37:28 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:37:28 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:28 - INFO - 0 matérias carregadas.
+2025-05-26 09:37:28 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:37:28 - INFO - Arquivo alunos.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:28 - INFO - 0 alunos carregados.
+2025-05-26 09:37:28 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:37:28 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:28 - INFO - 0 professores carregados.
+2025-05-26 09:37:28 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:37:28 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:37:28 - INFO - 0 notas carregadas.
+2025-05-26 09:37:28 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:37:28 - INFO - Ligação de referências concluída.
+2025-05-26 09:37:28 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:37:28 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:39:04 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:39:04 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:39:04 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:39:04 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:39:04 - INFO - 1 cursos carregados.
+2025-05-26 09:39:04 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:39:04 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:39:04 - INFO - 0 matérias carregadas.
+2025-05-26 09:39:04 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:39:04 - INFO - Arquivo alunos.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:39:04 - INFO - 0 alunos carregados.
+2025-05-26 09:39:04 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:39:04 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:39:04 - INFO - 0 professores carregados.
+2025-05-26 09:39:04 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:39:04 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:39:04 - INFO - 0 notas carregadas.
+2025-05-26 09:39:04 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:39:04 - INFO - Ligação de referências concluída.
+2025-05-26 09:39:04 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:40:29 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 09:40:29 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 09:40:29 - INFO - Arquivo cursos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:40:29 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 09:40:29 - INFO - Arquivo materias.csv escrito com sucesso com 0 registros.
+2025-05-26 09:40:29 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 09:40:29 - INFO - Arquivo alunos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:40:29 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 09:40:29 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 09:40:29 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 09:40:29 - INFO - Arquivo notas.csv escrito com sucesso com 0 registros.
+2025-05-26 09:40:29 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 09:40:29 - INFO - Aluno adicionado: 759014 - Enrico de Melo
+2025-05-26 09:40:29 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:41:00 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:41:00 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:41:00 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:41:00 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:41:00 - INFO - 1 cursos carregados.
+2025-05-26 09:41:00 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:41:00 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:00 - INFO - 0 matérias carregadas.
+2025-05-26 09:41:00 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:41:00 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:41:00 - INFO - 1 alunos carregados.
+2025-05-26 09:41:00 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:41:00 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:00 - INFO - 0 professores carregados.
+2025-05-26 09:41:00 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:41:00 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:00 - INFO - 0 notas carregadas.
+2025-05-26 09:41:00 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:41:00 - INFO - Ligação de referências concluída.
+2025-05-26 09:41:00 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:41:00 - INFO - Listagem de alunos executada.
+2025-05-26 09:41:00 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:41:22 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:41:22 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:41:22 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:41:22 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:41:22 - INFO - 1 cursos carregados.
+2025-05-26 09:41:22 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:41:22 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:22 - INFO - 0 matérias carregadas.
+2025-05-26 09:41:22 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:41:22 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:41:22 - INFO - 1 alunos carregados.
+2025-05-26 09:41:22 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:41:22 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:22 - INFO - 0 professores carregados.
+2025-05-26 09:41:22 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:41:22 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:22 - INFO - 0 notas carregadas.
+2025-05-26 09:41:22 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:41:22 - INFO - Ligação de referências concluída.
+2025-05-26 09:41:22 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:41:22 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:41:42 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:41:42 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:41:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:41:42 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:41:42 - INFO - 1 cursos carregados.
+2025-05-26 09:41:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:41:42 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:42 - INFO - 0 matérias carregadas.
+2025-05-26 09:41:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:41:42 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:41:42 - INFO - 1 alunos carregados.
+2025-05-26 09:41:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:41:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:42 - INFO - 0 professores carregados.
+2025-05-26 09:41:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:41:42 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:41:42 - INFO - 0 notas carregadas.
+2025-05-26 09:41:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:41:42 - INFO - Ligação de referências concluída.
+2025-05-26 09:41:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:42:22 - ERRO - Erro de Cadastro: Código de aluno já cadastrado: 759014
+2025-05-26 09:42:45 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:42:45 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:42:45 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:42:45 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:42:45 - INFO - 1 cursos carregados.
+2025-05-26 09:42:45 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:42:45 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:42:45 - INFO - 0 matérias carregadas.
+2025-05-26 09:42:45 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:42:45 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:42:45 - INFO - 1 alunos carregados.
+2025-05-26 09:42:45 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:42:45 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:42:45 - INFO - 0 professores carregados.
+2025-05-26 09:42:45 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:42:45 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:42:45 - INFO - 0 notas carregadas.
+2025-05-26 09:42:45 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:42:45 - INFO - Ligação de referências concluída.
+2025-05-26 09:42:45 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:42:45 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:43:02 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:43:02 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:43:02 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:43:02 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:43:02 - INFO - 1 cursos carregados.
+2025-05-26 09:43:02 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:43:02 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:43:02 - INFO - 0 matérias carregadas.
+2025-05-26 09:43:02 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:43:02 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:43:02 - INFO - 1 alunos carregados.
+2025-05-26 09:43:02 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:43:02 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:43:02 - INFO - 0 professores carregados.
+2025-05-26 09:43:02 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:43:02 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:43:02 - INFO - 0 notas carregadas.
+2025-05-26 09:43:02 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:43:02 - INFO - Ligação de referências concluída.
+2025-05-26 09:43:02 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:43:02 - INFO - Executando verificação de dados...
+2025-05-26 09:43:02 - INFO - Verificação de dados concluída sem inconsistências.
+2025-05-26 09:43:02 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:47:11 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:47:11 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:47:11 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:47:11 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:47:11 - INFO - 1 cursos carregados.
+2025-05-26 09:47:11 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:47:11 - INFO - Arquivo materias.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:47:11 - INFO - 0 matérias carregadas.
+2025-05-26 09:47:11 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:47:11 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:47:11 - INFO - 1 alunos carregados.
+2025-05-26 09:47:11 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:47:11 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:47:11 - INFO - 0 professores carregados.
+2025-05-26 09:47:11 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:47:11 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:47:11 - INFO - 0 notas carregadas.
+2025-05-26 09:47:11 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:47:11 - INFO - Ligação de referências concluída.
+2025-05-26 09:47:11 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:47:29 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 09:47:29 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 09:47:29 - INFO - Arquivo cursos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:47:29 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 09:47:29 - INFO - Arquivo materias.csv escrito com sucesso com 1 registros.
+2025-05-26 09:47:29 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 09:47:29 - INFO - Arquivo alunos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:47:29 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 09:47:29 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 09:47:29 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 09:47:29 - INFO - Arquivo notas.csv escrito com sucesso com 0 registros.
+2025-05-26 09:47:29 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 09:47:29 - INFO - Matéria adicionada: 6969 - POO (Curso: CC01)
+2025-05-26 09:47:29 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:48:25 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:48:25 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:48:25 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:48:25 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:48:25 - INFO - 1 cursos carregados.
+2025-05-26 09:48:25 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:48:25 - INFO - Arquivo materias.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:48:25 - INFO - 1 matérias carregadas.
+2025-05-26 09:48:25 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:48:25 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:48:25 - INFO - 1 alunos carregados.
+2025-05-26 09:48:25 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:48:25 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:48:25 - INFO - 0 professores carregados.
+2025-05-26 09:48:25 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:48:25 - INFO - Arquivo notas.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:48:25 - INFO - 0 notas carregadas.
+2025-05-26 09:48:25 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:48:25 - INFO - Ligação de referências concluída.
+2025-05-26 09:48:25 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:48:25 - INFO - Tentando adicionar nota: Tipo=p1, Aluno=759014, Matéria=6969, Nota=8.0
+2025-05-26 09:48:25 - INFO - Nova nota adicionada.
+2025-05-26 09:48:25 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 09:48:25 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 09:48:25 - INFO - Arquivo cursos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:48:25 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 09:48:25 - INFO - Arquivo materias.csv escrito com sucesso com 1 registros.
+2025-05-26 09:48:25 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 09:48:25 - INFO - Arquivo alunos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:48:25 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 09:48:25 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 09:48:25 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 09:48:25 - INFO - Arquivo notas.csv escrito com sucesso com 1 registros.
+2025-05-26 09:48:25 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 09:48:25 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:52:08 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:52:08 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:52:08 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:52:08 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:52:08 - INFO - 1 cursos carregados.
+2025-05-26 09:52:08 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:52:08 - INFO - Arquivo materias.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:52:08 - INFO - 1 matérias carregadas.
+2025-05-26 09:52:08 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:52:08 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:52:08 - INFO - 1 alunos carregados.
+2025-05-26 09:52:08 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:52:08 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:52:08 - INFO - 0 professores carregados.
+2025-05-26 09:52:08 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:52:08 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:52:08 - INFO - 1 notas carregadas.
+2025-05-26 09:52:08 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:52:08 - INFO - Ligação de referências concluída.
+2025-05-26 09:52:08 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:52:08 - INFO - Calculando média para o aluno: 759014
+2025-05-26 09:52:08 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-26 09:52:08 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:53:12 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:53:12 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:53:12 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:53:12 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:12 - INFO - 1 cursos carregados.
+2025-05-26 09:53:12 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:53:12 - INFO - Arquivo materias.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:12 - INFO - 1 matérias carregadas.
+2025-05-26 09:53:12 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:53:12 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:12 - INFO - 1 alunos carregados.
+2025-05-26 09:53:12 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:53:12 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:53:12 - INFO - 0 professores carregados.
+2025-05-26 09:53:12 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:53:12 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:12 - INFO - 1 notas carregadas.
+2025-05-26 09:53:12 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:53:12 - INFO - Ligação de referências concluída.
+2025-05-26 09:53:12 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:53:12 - ERRO - Tentativa de listar matérias de curso inexistente: 6969
+2025-05-26 09:53:12 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:53:20 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:53:20 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:53:20 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:53:20 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:20 - INFO - 1 cursos carregados.
+2025-05-26 09:53:20 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:53:20 - INFO - Arquivo materias.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:20 - INFO - 1 matérias carregadas.
+2025-05-26 09:53:20 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:53:20 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:20 - INFO - 1 alunos carregados.
+2025-05-26 09:53:20 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:53:20 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:53:20 - INFO - 0 professores carregados.
+2025-05-26 09:53:20 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:53:20 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:53:20 - INFO - 1 notas carregadas.
+2025-05-26 09:53:20 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:53:20 - INFO - Ligação de referências concluída.
+2025-05-26 09:53:20 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:53:20 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:54:03 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:54:03 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:54:03 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:54:03 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:03 - INFO - 1 cursos carregados.
+2025-05-26 09:54:03 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:54:03 - INFO - Arquivo materias.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:03 - INFO - 1 matérias carregadas.
+2025-05-26 09:54:03 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:54:03 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:03 - INFO - 1 alunos carregados.
+2025-05-26 09:54:03 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:54:03 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:54:03 - INFO - 0 professores carregados.
+2025-05-26 09:54:03 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:54:03 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:03 - INFO - 1 notas carregadas.
+2025-05-26 09:54:03 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:54:03 - INFO - Ligação de referências concluída.
+2025-05-26 09:54:03 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:54:20 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 09:54:20 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 09:54:20 - INFO - Arquivo cursos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:54:20 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 09:54:20 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-26 09:54:20 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 09:54:20 - INFO - Arquivo alunos.csv escrito com sucesso com 1 registros.
+2025-05-26 09:54:20 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 09:54:20 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 09:54:20 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 09:54:20 - INFO - Arquivo notas.csv escrito com sucesso com 1 registros.
+2025-05-26 09:54:20 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 09:54:20 - INFO - Matéria adicionada: 1234 - AS (Curso: CC01)
+2025-05-26 09:54:20 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:54:46 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 09:54:46 - INFO - Iniciando carregamento de dados...
+2025-05-26 09:54:46 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 09:54:46 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:46 - INFO - 1 cursos carregados.
+2025-05-26 09:54:46 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 09:54:46 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-26 09:54:46 - INFO - 2 matérias carregadas.
+2025-05-26 09:54:46 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 09:54:46 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:46 - INFO - 1 alunos carregados.
+2025-05-26 09:54:46 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 09:54:46 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 09:54:46 - INFO - 0 professores carregados.
+2025-05-26 09:54:46 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 09:54:46 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 09:54:46 - INFO - 1 notas carregadas.
+2025-05-26 09:54:46 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 09:54:46 - INFO - Ligação de referências concluída.
+2025-05-26 09:54:46 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 09:54:46 - INFO - Listagem de cursos executada.
+2025-05-26 09:54:46 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 17:01:18 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 17:01:18 - INFO - Iniciando carregamento de dados...
+2025-05-26 17:01:18 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 17:01:18 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:01:18 - INFO - 1 cursos carregados.
+2025-05-26 17:01:18 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 17:01:18 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-26 17:01:18 - INFO - 2 matérias carregadas.
+2025-05-26 17:01:18 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 17:01:18 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:01:18 - INFO - 1 alunos carregados.
+2025-05-26 17:01:18 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 17:01:18 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 17:01:18 - INFO - 0 professores carregados.
+2025-05-26 17:01:18 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 17:01:18 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:01:18 - INFO - 1 notas carregadas.
+2025-05-26 17:01:18 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 17:01:18 - INFO - Ligação de referências concluída.
+2025-05-26 17:01:18 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 17:01:18 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 17:03:53 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 17:03:53 - INFO - Iniciando carregamento de dados...
+2025-05-26 17:03:53 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 17:03:53 - INFO - Arquivo cursos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:03:53 - INFO - 1 cursos carregados.
+2025-05-26 17:03:53 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 17:03:53 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-26 17:03:53 - INFO - 2 matérias carregadas.
+2025-05-26 17:03:53 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 17:03:53 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:03:53 - INFO - 1 alunos carregados.
+2025-05-26 17:03:53 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 17:03:53 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 17:03:53 - INFO - 0 professores carregados.
+2025-05-26 17:03:53 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 17:03:53 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:03:53 - INFO - 1 notas carregadas.
+2025-05-26 17:03:53 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 17:03:53 - INFO - Ligação de referências concluída.
+2025-05-26 17:03:53 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 17:04:24 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 17:04:24 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 17:04:24 - INFO - Arquivo cursos.csv escrito com sucesso com 2 registros.
+2025-05-26 17:04:24 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 17:04:24 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-26 17:04:24 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 17:04:25 - INFO - Arquivo alunos.csv escrito com sucesso com 1 registros.
+2025-05-26 17:04:25 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 17:04:25 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 17:04:25 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 17:04:25 - INFO - Arquivo notas.csv escrito com sucesso com 1 registros.
+2025-05-26 17:04:25 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 17:04:25 - INFO - Curso adicionado: PS01 - Psicologia
+2025-05-26 17:04:25 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 17:04:41 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-26 17:04:41 - INFO - Iniciando carregamento de dados...
+2025-05-26 17:04:41 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-26 17:04:41 - INFO - Arquivo cursos.csv lido com sucesso. 2 registros carregados.
+2025-05-26 17:04:41 - INFO - 2 cursos carregados.
+2025-05-26 17:04:41 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-26 17:04:41 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-26 17:04:41 - INFO - 2 matérias carregadas.
+2025-05-26 17:04:41 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-26 17:04:41 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:04:41 - INFO - 1 alunos carregados.
+2025-05-26 17:04:41 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-26 17:04:41 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-26 17:04:41 - INFO - 0 professores carregados.
+2025-05-26 17:04:41 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-26 17:04:41 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-26 17:04:41 - INFO - 1 notas carregadas.
+2025-05-26 17:04:41 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-26 17:04:41 - INFO - Ligação de referências concluída.
+2025-05-26 17:04:41 - INFO - Carregamento e ligação de dados concluído.
+2025-05-26 17:05:09 - ERRO - Tentativa de adicionar matéria 1234 que já pertence a outro curso ao curso ADS01
+2025-05-26 17:05:09 - ERRO - Tentativa de adicionar matéria 6969 que já pertence a outro curso ao curso ADS01
+2025-05-26 17:05:09 - INFO - Iniciando salvamento de todos os dados...
+2025-05-26 17:05:09 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-26 17:05:09 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-26 17:05:09 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-26 17:05:09 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-26 17:05:09 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-26 17:05:09 - INFO - Arquivo alunos.csv escrito com sucesso com 1 registros.
+2025-05-26 17:05:09 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-26 17:05:09 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-26 17:05:09 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-26 17:05:09 - INFO - Arquivo notas.csv escrito com sucesso com 1 registros.
+2025-05-26 17:05:09 - INFO - Salvamento de todos os dados concluído.
+2025-05-26 17:05:09 - INFO - Curso adicionado: ADS01 - An�lise e Desenvolvimento de Sistemas
+2025-05-26 17:05:09 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:03:13 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:03:13 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:03:13 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:03:13 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:03:13 - INFO - 3 cursos carregados.
+2025-05-27 16:03:13 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:03:13 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:03:13 - INFO - 2 matérias carregadas.
+2025-05-27 16:03:13 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:03:13 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:03:13 - INFO - 1 alunos carregados.
+2025-05-27 16:03:13 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:03:13 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:03:13 - INFO - 0 professores carregados.
+2025-05-27 16:03:13 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:03:13 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:03:13 - INFO - 1 notas carregadas.
+2025-05-27 16:03:13 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:03:13 - INFO - Ligação de referências concluída.
+2025-05-27 16:03:13 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:03:13 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:04:20 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:04:20 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:04:20 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:04:20 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:04:20 - INFO - 3 cursos carregados.
+2025-05-27 16:04:20 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:04:20 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:04:20 - INFO - 2 matérias carregadas.
+2025-05-27 16:04:20 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:04:20 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:04:20 - INFO - 1 alunos carregados.
+2025-05-27 16:04:20 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:04:20 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:04:20 - INFO - 0 professores carregados.
+2025-05-27 16:04:20 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:04:20 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:04:20 - INFO - 1 notas carregadas.
+2025-05-27 16:04:20 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:04:20 - INFO - Ligação de referências concluída.
+2025-05-27 16:04:20 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:04:20 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:04:20 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-27 16:04:20 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:56 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:56 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:56 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:56 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:56 - INFO - 3 cursos carregados.
+2025-05-27 16:05:56 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:56 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:56 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:56 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:56 - INFO - Arquivo alunos.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:05:56 - INFO - 1 alunos carregados.
+2025-05-27 16:05:56 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:56 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:56 - INFO - 0 professores carregados.
+2025-05-27 16:05:56 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:56 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:05:56 - INFO - 1 notas carregadas.
+2025-05-27 16:05:56 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:56 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:56 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:56 - INFO - Listagem de cursos executada.
+2025-05-27 16:05:56 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:40 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:40 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:40 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:40 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:40 - INFO - 3 cursos carregados.
+2025-05-27 16:05:40 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:40 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:40 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:40 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:40 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:40 - INFO - 2 alunos carregados.
+2025-05-27 16:05:40 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:40 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:40 - INFO - 0 professores carregados.
+2025-05-27 16:05:40 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:40 - INFO - Arquivo notas.csv lido com sucesso. 1 registros carregados.
+2025-05-27 16:05:40 - INFO - 1 notas carregadas.
+2025-05-27 16:05:40 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:40 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:40 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:40 - INFO - Tentando adicionar nota: Tipo=P1, Aluno=759014, Matéria=1234, Nota=7.0
+2025-05-27 16:05:40 - INFO - Nova nota adicionada.
+2025-05-27 16:05:40 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:40 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:40 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:40 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:40 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:40 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:40 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:40 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:40 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:40 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:40 - INFO - Arquivo notas.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:40 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:41 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:41 - INFO - 3 cursos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 alunos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:41 - INFO - 0 professores carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 notas carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:41 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:41 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:41 - INFO - Tentando adicionar nota: Tipo=P2, Aluno=759014, Matéria=1234, Nota=8.0
+2025-05-27 16:05:41 - INFO - Nova nota adicionada.
+2025-05-27 16:05:41 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:41 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:41 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:41 - INFO - 3 cursos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 alunos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:41 - INFO - 0 professores carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:41 - INFO - 3 notas carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:41 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:41 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:41 - INFO - Tentando adicionar nota: Tipo=Trabalho, Aluno=759014, Matéria=1234, Nota=9.0
+2025-05-27 16:05:41 - INFO - Nova nota adicionada.
+2025-05-27 16:05:41 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv escrito com sucesso com 4 registros.
+2025-05-27 16:05:41 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:41 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:41 - INFO - 3 cursos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 alunos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:41 - INFO - 0 professores carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv lido com sucesso. 4 registros carregados.
+2025-05-27 16:05:41 - INFO - 4 notas carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:41 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:41 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:41 - INFO - Tentando adicionar nota: Tipo=P1, Aluno=759014, Matéria=6969, Nota=4.0
+2025-05-27 16:05:41 - INFO - Nota existente encontrada para 759014/6969/P1. Atualizando valor de 8.0 para 4.0
+2025-05-27 16:05:41 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv escrito com sucesso com 4 registros.
+2025-05-27 16:05:41 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:41 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:41 - INFO - 3 cursos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:41 - INFO - 2 alunos carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:41 - INFO - 0 professores carregados.
+2025-05-27 16:05:41 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv lido com sucesso. 4 registros carregados.
+2025-05-27 16:05:41 - INFO - 4 notas carregadas.
+2025-05-27 16:05:41 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:41 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:41 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:41 - INFO - Tentando adicionar nota: Tipo=P2, Aluno=759014, Matéria=6969, Nota=3.0
+2025-05-27 16:05:41 - INFO - Nova nota adicionada.
+2025-05-27 16:05:41 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:41 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:41 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:41 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:41 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:41 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:41 - INFO - Arquivo notas.csv escrito com sucesso com 5 registros.
+2025-05-27 16:05:41 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:41 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:41 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:42 - INFO - 3 cursos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 alunos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:42 - INFO - 0 professores carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv lido com sucesso. 5 registros carregados.
+2025-05-27 16:05:42 - INFO - 5 notas carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:42 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:42 - INFO - Tentando adicionar nota: Tipo=Trabalho, Aluno=759014, Matéria=6969, Nota=5.0
+2025-05-27 16:05:42 - INFO - Nova nota adicionada.
+2025-05-27 16:05:42 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv escrito com sucesso com 6 registros.
+2025-05-27 16:05:42 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:42 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:42 - INFO - 3 cursos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 alunos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:42 - INFO - 0 professores carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv lido com sucesso. 6 registros carregados.
+2025-05-27 16:05:42 - INFO - 6 notas carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:42 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:42 - INFO - Tentando adicionar nota: Tipo=P1, Aluno=999999, Matéria=1234, Nota=2.0
+2025-05-27 16:05:42 - INFO - Nova nota adicionada.
+2025-05-27 16:05:42 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv escrito com sucesso com 7 registros.
+2025-05-27 16:05:42 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:42 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:42 - INFO - 3 cursos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 alunos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:42 - INFO - 0 professores carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv lido com sucesso. 7 registros carregados.
+2025-05-27 16:05:42 - INFO - 7 notas carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:42 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:42 - INFO - Tentando adicionar nota: Tipo=P2, Aluno=999999, Matéria=1234, Nota=3.0
+2025-05-27 16:05:42 - INFO - Nova nota adicionada.
+2025-05-27 16:05:42 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv escrito com sucesso com 8 registros.
+2025-05-27 16:05:42 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:42 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:42 - INFO - 3 cursos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 alunos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:42 - INFO - 0 professores carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv lido com sucesso. 8 registros carregados.
+2025-05-27 16:05:42 - INFO - 8 notas carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:42 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:42 - INFO - Tentando adicionar nota: Tipo=Trabalho, Aluno=999999, Matéria=1234, Nota=6.0
+2025-05-27 16:05:42 - INFO - Nova nota adicionada.
+2025-05-27 16:05:42 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv escrito com sucesso com 9 registros.
+2025-05-27 16:05:42 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:42 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:42 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:42 - INFO - 3 cursos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:42 - INFO - 2 alunos carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:42 - INFO - 0 professores carregados.
+2025-05-27 16:05:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv lido com sucesso. 9 registros carregados.
+2025-05-27 16:05:42 - INFO - 9 notas carregadas.
+2025-05-27 16:05:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:42 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:42 - INFO - Tentando adicionar nota: Tipo=P1, Aluno=999999, Matéria=6969, Nota=1.0
+2025-05-27 16:05:42 - INFO - Nova nota adicionada.
+2025-05-27 16:05:42 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:42 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:42 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:42 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:42 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:42 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:42 - INFO - Arquivo notas.csv escrito com sucesso com 10 registros.
+2025-05-27 16:05:42 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:42 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:43 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:43 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:43 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:43 - INFO - 3 cursos carregados.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:43 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:43 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:43 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:43 - INFO - 2 alunos carregados.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:43 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:43 - INFO - 0 professores carregados.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:43 - INFO - Arquivo notas.csv lido com sucesso. 10 registros carregados.
+2025-05-27 16:05:43 - INFO - 10 notas carregadas.
+2025-05-27 16:05:43 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:43 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:43 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:43 - INFO - Tentando adicionar nota: Tipo=P2, Aluno=999999, Matéria=6969, Nota=2.0
+2025-05-27 16:05:43 - INFO - Nova nota adicionada.
+2025-05-27 16:05:43 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:43 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:43 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:43 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:43 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:43 - INFO - Arquivo notas.csv escrito com sucesso com 11 registros.
+2025-05-27 16:05:43 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:43 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:43 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:05:43 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:05:43 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:05:43 - INFO - 3 cursos carregados.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:05:43 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:43 - INFO - 2 matérias carregadas.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:05:43 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:05:43 - INFO - 2 alunos carregados.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:05:43 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:05:43 - INFO - 0 professores carregados.
+2025-05-27 16:05:43 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:05:43 - INFO - Arquivo notas.csv lido com sucesso. 11 registros carregados.
+2025-05-27 16:05:43 - INFO - 11 notas carregadas.
+2025-05-27 16:05:43 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:05:43 - INFO - Ligação de referências concluída.
+2025-05-27 16:05:43 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:05:43 - INFO - Tentando adicionar nota: Tipo=Trabalho, Aluno=999999, Matéria=6969, Nota=4.0
+2025-05-27 16:05:43 - INFO - Nova nota adicionada.
+2025-05-27 16:05:43 - INFO - Iniciando salvamento de todos os dados...
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: cursos.csv
+2025-05-27 16:05:43 - INFO - Arquivo cursos.csv escrito com sucesso com 3 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: materias.csv
+2025-05-27 16:05:43 - INFO - Arquivo materias.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: alunos.csv
+2025-05-27 16:05:43 - INFO - Arquivo alunos.csv escrito com sucesso com 2 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: professores.csv
+2025-05-27 16:05:43 - INFO - Arquivo professores.csv escrito com sucesso com 0 registros.
+2025-05-27 16:05:43 - INFO - Iniciando escrita do arquivo: notas.csv
+2025-05-27 16:05:43 - INFO - Arquivo notas.csv escrito com sucesso com 12 registros.
+2025-05-27 16:05:43 - INFO - Salvamento de todos os dados concluído.
+2025-05-27 16:05:43 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:06:05 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:06:05 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:06:05 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:06:05 - INFO - 3 cursos carregados.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:06:05 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:06:05 - INFO - 2 matérias carregadas.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:06:05 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:06:05 - INFO - 2 alunos carregados.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:06:05 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:06:05 - INFO - 0 professores carregados.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:06:05 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:06:05 - INFO - 12 notas carregadas.
+2025-05-27 16:06:05 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:06:05 - INFO - Ligação de referências concluída.
+2025-05-27 16:06:05 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:06:05 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:06:05 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-27 16:06:05 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:06:05 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:06:05 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:06:05 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:06:05 - INFO - 3 cursos carregados.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:06:05 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:06:05 - INFO - 2 matérias carregadas.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:06:05 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:06:05 - INFO - 2 alunos carregados.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:06:05 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:06:05 - INFO - 0 professores carregados.
+2025-05-27 16:06:05 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:06:05 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:06:05 - INFO - 12 notas carregadas.
+2025-05-27 16:06:05 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:06:05 - INFO - Ligação de referências concluída.
+2025-05-27 16:06:05 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:06:05 - INFO - Calculando média para o aluno: 999999
+2025-05-27 16:06:05 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 999999
+2025-05-27 16:06:05 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:10:19 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:10:19 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:10:19 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:10:19 - INFO - 3 cursos carregados.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:10:19 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:10:19 - INFO - 2 matérias carregadas.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:10:19 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:10:19 - INFO - 2 alunos carregados.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:10:19 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:10:19 - INFO - 0 professores carregados.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:10:19 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:10:19 - INFO - 12 notas carregadas.
+2025-05-27 16:10:19 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:10:19 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:10:19 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:10:19 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:10:19 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:10:19 - INFO - Ligação de referências concluída.
+2025-05-27 16:10:19 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:10:19 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:10:19 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-27 16:10:19 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:10:19 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:10:19 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:10:19 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:10:19 - INFO - 3 cursos carregados.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:10:19 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:10:19 - INFO - 2 matérias carregadas.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:10:19 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:10:19 - INFO - 2 alunos carregados.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:10:19 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:10:19 - INFO - 0 professores carregados.
+2025-05-27 16:10:19 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:10:19 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:10:19 - INFO - 12 notas carregadas.
+2025-05-27 16:10:19 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:10:19 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:10:19 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:10:19 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:10:19 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:10:19 - INFO - Ligação de referências concluída.
+2025-05-27 16:10:19 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:10:19 - INFO - Calculando média para o aluno: 999999
+2025-05-27 16:10:19 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 999999
+2025-05-27 16:10:19 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:12:15 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:12:15 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:12:15 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:12:15 - INFO - 3 cursos carregados.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:12:15 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:12:15 - INFO - 2 matérias carregadas.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:12:15 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:12:15 - INFO - 2 alunos carregados.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:12:15 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:12:15 - INFO - 0 professores carregados.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:12:15 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:12:15 - INFO - 12 notas carregadas.
+2025-05-27 16:12:15 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:12:15 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:12:15 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:12:15 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:12:15 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:12:15 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:12:15 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:12:15 - INFO - Ligação de referências concluída.
+2025-05-27 16:12:15 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:12:15 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:12:15 - INFO - DEBUG: Curso do aluno 759014: CC01 - Ciência da Computação
+2025-05-27 16:12:15 - INFO - DEBUG: Tamanho listaMaterias do curso: 0
+2025-05-27 16:12:15 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-27 16:12:15 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:12:15 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:12:15 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:12:15 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:12:15 - INFO - 3 cursos carregados.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:12:15 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:12:15 - INFO - 2 matérias carregadas.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:12:15 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:12:15 - INFO - 2 alunos carregados.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:12:15 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:12:15 - INFO - 0 professores carregados.
+2025-05-27 16:12:15 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:12:15 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:12:15 - INFO - 12 notas carregadas.
+2025-05-27 16:12:15 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:12:15 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:12:15 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:12:15 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:12:15 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:12:15 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:12:15 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:12:15 - INFO - Ligação de referências concluída.
+2025-05-27 16:12:15 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:12:15 - INFO - Calculando média para o aluno: 999999
+2025-05-27 16:12:15 - INFO - DEBUG: Curso do aluno 999999: CC01 - Ciência da Computação
+2025-05-27 16:12:15 - INFO - DEBUG: Tamanho listaMaterias do curso: 0
+2025-05-27 16:12:15 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 999999
+2025-05-27 16:12:15 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:15:38 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:15:38 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:15:38 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:15:38 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:15:38 - INFO - 3 cursos carregados.
+2025-05-27 16:15:38 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:15:38 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:15:38 - INFO - 2 matérias carregadas.
+2025-05-27 16:15:38 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:15:38 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:15:38 - INFO - 2 alunos carregados.
+2025-05-27 16:15:38 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:15:38 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:15:38 - INFO - 0 professores carregados.
+2025-05-27 16:15:38 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:15:38 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:15:38 - INFO - 12 notas carregadas.
+2025-05-27 16:15:38 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:15:38 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:15:38 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:15:38 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:15:38 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:15:38 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:15:38 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:15:38 - INFO - Ligação de referências concluída.
+2025-05-27 16:15:38 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:15:38 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:15:38 - INFO - DEBUG: Curso do aluno 759014: CC01 - Ciência da Computação
+2025-05-27 16:15:38 - INFO - DEBUG: Tamanho listaMaterias do curso: 0
+2025-05-27 16:15:38 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-27 16:15:38 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:15:38 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:15:39 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:15:39 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:15:39 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:15:39 - INFO - 3 cursos carregados.
+2025-05-27 16:15:39 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:15:39 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:15:39 - INFO - 2 matérias carregadas.
+2025-05-27 16:15:39 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:15:39 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:15:39 - INFO - 2 alunos carregados.
+2025-05-27 16:15:39 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:15:39 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:15:39 - INFO - 0 professores carregados.
+2025-05-27 16:15:39 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:15:39 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:15:39 - INFO - 12 notas carregadas.
+2025-05-27 16:15:39 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:15:39 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:15:39 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:15:39 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:15:39 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:15:39 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:15:39 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:15:39 - INFO - Ligação de referências concluída.
+2025-05-27 16:15:39 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:15:39 - INFO - Calculando média para o aluno: 999999
+2025-05-27 16:15:39 - INFO - DEBUG: Curso do aluno 999999: CC01 - Ciência da Computação
+2025-05-27 16:15:39 - INFO - DEBUG: Tamanho listaMaterias do curso: 0
+2025-05-27 16:15:39 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 999999
+2025-05-27 16:15:39 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:17:05 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:17:05 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:17:05 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:17:05 - INFO - 3 cursos carregados.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:17:05 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:17:05 - INFO - 2 matérias carregadas.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:17:05 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:17:05 - INFO - 2 alunos carregados.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:17:05 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:17:05 - INFO - 0 professores carregados.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:17:05 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:17:05 - INFO - 12 notas carregadas.
+2025-05-27 16:17:05 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:17:05 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:17:05 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:17:05 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:17:05 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:17:05 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:17:05 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:17:05 - INFO - Ligação de referências concluída.
+2025-05-27 16:17:05 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:17:05 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:17:05 - INFO - DEBUG: Curso do aluno 759014: CC01 - Ciência da Computação
+2025-05-27 16:17:05 - INFO - DEBUG: Tamanho listaMaterias do curso: 0
+2025-05-27 16:17:05 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 759014
+2025-05-27 16:17:05 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:17:05 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:17:05 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:17:05 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:17:05 - INFO - 3 cursos carregados.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:17:05 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:17:05 - INFO - 2 matérias carregadas.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:17:05 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:17:05 - INFO - 2 alunos carregados.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:17:05 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:17:05 - INFO - 0 professores carregados.
+2025-05-27 16:17:05 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:17:05 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:17:05 - INFO - 12 notas carregadas.
+2025-05-27 16:17:05 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:17:05 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:17:05 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:17:05 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:17:05 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:17:05 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:17:05 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:17:05 - INFO - Ligação de referências concluída.
+2025-05-27 16:17:05 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:17:05 - INFO - Calculando média para o aluno: 999999
+2025-05-27 16:17:05 - INFO - DEBUG: Curso do aluno 999999: CC01 - Ciência da Computação
+2025-05-27 16:17:05 - INFO - DEBUG: Tamanho listaMaterias do curso: 0
+2025-05-27 16:17:05 - INFO - Curso CC01 sem matérias para cálculo de média do aluno 999999
+2025-05-27 16:17:05 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:18:44 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:18:44 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:18:44 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:18:44 - INFO - 3 cursos carregados.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:18:44 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:18:44 - INFO - 2 matérias carregadas.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:18:44 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:18:44 - INFO - 2 alunos carregados.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:18:44 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:18:44 - INFO - 0 professores carregados.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:18:44 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:18:44 - INFO - 12 notas carregadas.
+2025-05-27 16:18:44 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:18:44 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:18:44 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:18:44 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:18:44 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:18:44 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:18:44 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:18:44 - INFO - Ligação de referências concluída.
+2025-05-27 16:18:44 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:18:44 - INFO - Calculando média para o aluno: 759014
+2025-05-27 16:18:44 - INFO - DEBUG: Curso do aluno 759014: CC01 - Ciência da Computação
+2025-05-27 16:18:44 - INFO - DEBUG: Tamanho listaMaterias do curso: 2
+2025-05-27 16:18:44 - INFO - DEBUG: Matéria na lista do curso: 1234 - AS
+2025-05-27 16:18:44 - INFO - DEBUG: Matéria na lista do curso: 6969 - POO
+2025-05-27 16:18:44 - INFO - Média calculada para 759014 em 1234: 13.80 (APROVADO)
+2025-05-27 16:18:44 - INFO - Média calculada para 759014 em 6969: 6.60 (APROVADO)
+2025-05-27 16:18:44 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:18:44 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 16:18:44 - INFO - Iniciando carregamento de dados...
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 16:18:44 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 16:18:44 - INFO - 3 cursos carregados.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 16:18:44 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:18:44 - INFO - 2 matérias carregadas.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 16:18:44 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 16:18:44 - INFO - 2 alunos carregados.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 16:18:44 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 16:18:44 - INFO - 0 professores carregados.
+2025-05-27 16:18:44 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 16:18:44 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 16:18:44 - INFO - 12 notas carregadas.
+2025-05-27 16:18:44 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 16:18:44 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 16:18:44 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 16:18:44 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 16:18:44 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 16:18:44 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 16:18:44 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 16:18:44 - INFO - Ligação de referências concluída.
+2025-05-27 16:18:44 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 16:18:44 - INFO - Calculando média para o aluno: 999999
+2025-05-27 16:18:44 - INFO - DEBUG: Curso do aluno 999999: CC01 - Ciência da Computação
+2025-05-27 16:18:44 - INFO - DEBUG: Tamanho listaMaterias do curso: 2
+2025-05-27 16:18:44 - INFO - DEBUG: Matéria na lista do curso: 1234 - AS
+2025-05-27 16:18:44 - INFO - DEBUG: Matéria na lista do curso: 6969 - POO
+2025-05-27 16:18:44 - INFO - Média calculada para 999999 em 1234: 5.20 (APROVADO)
+2025-05-27 16:18:44 - INFO - Média calculada para 999999 em 6969: 3.20 (Em Recuperação)
+2025-05-27 16:18:44 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 17:07:42 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 17:07:42 - INFO - Iniciando carregamento de dados...
+2025-05-27 17:07:42 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 17:07:42 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 17:07:42 - INFO - 3 cursos carregados.
+2025-05-27 17:07:42 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 17:07:42 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 17:07:42 - INFO - 2 matérias carregadas.
+2025-05-27 17:07:42 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 17:07:42 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 17:07:42 - INFO - 2 alunos carregados.
+2025-05-27 17:07:42 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 17:07:42 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 17:07:42 - INFO - 0 professores carregados.
+2025-05-27 17:07:42 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 17:07:42 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 17:07:42 - INFO - 12 notas carregadas.
+2025-05-27 17:07:42 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 17:07:42 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 17:07:42 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 17:07:42 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 17:07:42 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 17:07:42 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 17:07:42 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 17:07:42 - INFO - Ligação de referências concluída.
+2025-05-27 17:07:42 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 17:07:42 - INFO - Calculando média para o aluno: 759014
+2025-05-27 17:07:42 - INFO - Média calculada para 759014 em 1234: 13.80 (APROVADO)
+2025-05-27 17:07:42 - INFO - Média calculada para 759014 em 6969: 6.60 (APROVADO)
+2025-05-27 17:07:42 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 18:55:08 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 18:55:08 - INFO - Iniciando carregamento de dados...
+2025-05-27 18:55:08 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 18:55:08 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 18:55:08 - INFO - 3 cursos carregados.
+2025-05-27 18:55:08 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 18:55:08 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 18:55:08 - INFO - 2 matérias carregadas.
+2025-05-27 18:55:08 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 18:55:08 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 18:55:08 - INFO - 2 alunos carregados.
+2025-05-27 18:55:08 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 18:55:08 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 18:55:08 - INFO - 0 professores carregados.
+2025-05-27 18:55:08 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 18:55:08 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 18:55:08 - INFO - 12 notas carregadas.
+2025-05-27 18:55:08 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 18:55:08 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 18:55:08 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 18:55:08 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 18:55:08 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 18:55:08 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 18:55:08 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 18:55:08 - INFO - Ligação de referências concluída.
+2025-05-27 18:55:08 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 18:55:08 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 18:55:25 - INFO - === Iniciando execução GerenciaFaculdade (Versão Simplificada) ===
+2025-05-27 18:55:25 - INFO - Iniciando carregamento de dados...
+2025-05-27 18:55:25 - INFO - Iniciando leitura do arquivo: cursos.csv
+2025-05-27 18:55:25 - INFO - Arquivo cursos.csv lido com sucesso. 3 registros carregados.
+2025-05-27 18:55:25 - INFO - 3 cursos carregados.
+2025-05-27 18:55:25 - INFO - Iniciando leitura do arquivo: materias.csv
+2025-05-27 18:55:25 - INFO - Arquivo materias.csv lido com sucesso. 2 registros carregados.
+2025-05-27 18:55:25 - INFO - 2 matérias carregadas.
+2025-05-27 18:55:25 - INFO - Iniciando leitura do arquivo: alunos.csv
+2025-05-27 18:55:25 - INFO - Arquivo alunos.csv lido com sucesso. 2 registros carregados.
+2025-05-27 18:55:25 - INFO - 2 alunos carregados.
+2025-05-27 18:55:25 - INFO - Iniciando leitura do arquivo: professores.csv
+2025-05-27 18:55:25 - INFO - Arquivo professores.csv lido com sucesso. 0 registros carregados.
+2025-05-27 18:55:25 - INFO - 0 professores carregados.
+2025-05-27 18:55:25 - INFO - Iniciando leitura do arquivo: notas.csv
+2025-05-27 18:55:25 - INFO - Arquivo notas.csv lido com sucesso. 12 registros carregados.
+2025-05-27 18:55:25 - INFO - 12 notas carregadas.
+2025-05-27 18:55:25 - INFO - Iniciando ligação de referências entre objetos...
+2025-05-27 18:55:25 - INFO - Ligando matéria 1234 ao curso CC01
+2025-05-27 18:55:25 - INFO - --> Adicionando matéria 1234 à listaMaterias do curso CC01
+2025-05-27 18:55:25 - INFO - Ligando matéria 6969 ao curso CC01
+2025-05-27 18:55:25 - INFO - --> Adicionando matéria 6969 à listaMaterias do curso CC01
+2025-05-27 18:55:25 - INFO - Iniciando ligação final Curso -> Lista<Materia>...
+2025-05-27 18:55:25 - INFO - Ligação final Curso -> Lista<Materia> concluída.
+2025-05-27 18:55:25 - INFO - Ligação de referências concluída.
+2025-05-27 18:55:25 - INFO - Carregamento e ligação de dados concluído.
+2025-05-27 18:55:25 - INFO - Calculando média para o aluno: 759014
+2025-05-27 18:55:25 - INFO - Média calculada para 759014 em 1234: 13.80 (APROVADO)
+2025-05-27 18:55:25 - INFO - Média calculada para 759014 em 6969: 6.60 (APROVADO)
+2025-05-27 18:55:25 - INFO - === Finalizando execução GerenciaFaculdade (Versão Simplificada) ===
