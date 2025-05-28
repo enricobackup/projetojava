@@ -1,0 +1,108 @@
+============DOCUMENTAÇÃO DO PROJETO - SISTEMA DE GERENCIAMENTO DE FACULDADE ==========
+
+
+1. TRABALHO FINAL JAVA. 
+--------------
+INTEGRANTES: Enrico de Melo Brugnano; Marcos Favaro Coelho; Lara barbosa Guimarães
+
+
+--------------
+O Sistema de Gerenciamento de Faculdade permite gerenciar alunos, professores, cursos e matérias, 
+além de registrar notas e calcular médias finais. O sistema utiliza arquivos CSV para armazenamento
+de dados e oferece uma interface de linha de comando para interação com o usuário.
+
+2. ESTRUTURA DO PROJETO
+-----------------------
+
+2.1 Pacotes Principais:
+
+- br.fsa: Pacote principal com a classe GerenciaFaculdade (ponto de entrada)
+- br.fsa.faculdade: Classes de domínio relacionadas à faculdade (Curso, Materia, Nota)
+- br.fsa.pessoas: Classes de pessoas (Aluno, Professor, Pessoa)
+- br.fsa.dao: Classes de acesso a dados (persistência em CSV)
+- br.fsa.util: Classes utilitárias (Log, Utilitarios, ErroCadastro)
+
+2.2 Arquivos de Dados:
+
+- alunos.csv: Armazena dados dos alunos
+- cursos.csv: Armazena dados dos cursos
+- materias.csv: Armazena dados das matérias
+- notas.csv: Armazena as notas dos alunos
+- professores.csv: Armazena dados dos professores
+- log_execucao.txt: Registra eventos e erros do sistema
+
+3. PRINCIPAIS CLASSES E FUNCIONALIDADES
+---------------------------------------
+
+3.1 GerenciaFaculdade (Classe Principal)
+
+Responsabilidades:
+- Ponto de entrada do sistema
+- Processamento de comandos da linha de comando
+- Carregamento e salvamento de dados
+- Cálculo de médias e determinação de status de aprovação
+
+Métodos Principais:
+- main(): Inicializa o sistema e processa argumentos
+- ligarReferencias(): Estabelece conexões entre objetos após carregamento
+- fecharMediaAluno(): Calcula médias e determina status de aprovação
+- adicionarNota(): Registra notas de avaliações
+
+3.2 Classes de Domínio
+
+Curso:
+- Representa um curso da faculdade
+- Mantém lista de matérias associadas
+- Métodos para adicionar e remover matérias
+
+Materia:
+- Representa uma disciplina da faculdade
+- Associada a um curso
+- Mantém lista de notas dos alunos
+- Métodos para buscar notas por aluno e tipo
+
+Nota:
+- Armazena uma avaliação específica
+- Contém referências ao aluno e à matéria
+- Armazena tipo de avaliação (P1, P2, T) e valor
+
+Aluno/Professor:
+- Herdam da classe Pessoa
+- Contêm atributos específicos para cada papel
+- Aluno mantém referência ao curso matriculado
+
+3.3 Classes DAO (Data Access Object)
+
+Responsabilidades:
+- Leitura e escrita de dados em arquivos CSV
+- Conversão entre objetos e representação em texto
+- Tratamento de erros de I/O
+
+Implementações:
+- AlunoDAO: Gerencia persistência de alunos
+- CursoDAO: Gerencia persistência de cursos
+- MateriaDAO: Gerencia persistência de matérias
+- NotaDAO: Gerencia persistência de notas
+- ProfessorDAO: Gerencia persistência de professores
+
+4. FLUXOS PRINCIPAIS
+-------------------
+
+4.1 Registro de Notas
+
+Fluxo:
+1. Usuário executa comando com parâmetros (tipo avaliação, aluno, matéria, nota)
+2. Sistema valida existência do aluno e da matéria
+3. Sistema cria objeto Nota e associa ao aluno e à matéria
+4. Sistema salva a nota no arquivo notas.csv
+
+4.2 Cálculo de Médias
+
+Fluxo:
+1. Usuário executa comando com código do aluno
+2. Sistema busca todas as matérias do aluno
+3. Para cada matéria, sistema busca notas P1, P2 e T
+4. Sistema calcula média usando fórmula: (P1 + P2) * 0.8 + (T * 0.2)
+5. Sistema determina status: "APROVADO" se média >= 5.0, "Em Recuperação" caso contrário
+6. Sistema exibe resultados para o usuário
+

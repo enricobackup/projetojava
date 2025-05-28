@@ -1,0 +1,103 @@
+DOCUMENTAÇÃO DE TESTES - SISTEMA DE GERENCIAMENTO DE FACULDADE
+==================================================================
+
+
+Este documento apresenta os testes realizados no Sistema de Gerenciamento de Faculdade, 
+incluindo testes positivos (casos de sucesso) e negativos (situações de erro).
+
+1. TESTES DE REGISTRO DE NOTAS
+------------------------------
+
+1.1 Teste Positivo: Adicionar Nota P1 para Aluno Existente
+
+Comando:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P1" -NotaAluno 759014 -NotaMateria 1234 -Nota 8.5
+
+Parâmetros:
+- tipoAvaliação: "P1" (Prova 1)
+- NotaAluno: 759014 (código do aluno existente)
+- NotaMateria: 1234 (código da matéria existente)
+- Nota: 8.5 (valor da nota)
+
+Resultado Esperado:
+- Nota registrada com sucesso
+- Entrada adicionada ao arquivo notas.csv
+
+1.2 Teste Negativo: Adicionar Nota para Aluno Inexistente
+
+Comando:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P1" -NotaAluno 99999 -NotaMateria 1234 -Nota 8.5
+
+Parâmetros:
+- NotaAluno: 99999 (código de aluno inexistente)
+
+Erro Esperado:
+- Mensagem de erro indicando que o aluno não foi encontrado
+- Nenhuma alteração no arquivo notas.csv
+
+1.3 Teste Negativo: Adicionar Nota para Matéria Inexistente
+
+Comando:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P1" -NotaAluno 759014 -NotaMateria 9999 -Nota 8.5
+
+Parâmetros:
+- NotaMateria: 9999 (código de matéria inexistente)
+
+Erro Esperado:
+- Mensagem de erro indicando que a matéria não foi encontrada
+
+2. TESTES DE CÁLCULO DE MÉDIA
+-----------------------------
+
+2.1 Teste Positivo: Calcular Média com Todas as Notas Registradas
+
+Comando:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -FechaMedia 759014
+
+Parâmetros:
+- FechaMedia: 759014 (código do aluno com todas as notas registradas)
+
+Resultado Esperado:
+- Exibição das matérias em que o aluno está matriculado
+- Cálculo correto da média usando a fórmula: (P1 + P2) * 0.8 + (T * 0.2)
+- Status "APROVADO" para médias >= 5.0
+- Status "Em Recuperação" para médias < 5.0
+
+2.2 Teste Positivo: Calcular Média com Aluno Aprovado
+
+Cenário Preparatório:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P1" -NotaAluno 759014 -NotaMateria 1234 -Nota 8.0
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P2" -NotaAluno 759014 -NotaMateria 1234 -Nota 7.0
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "T" -NotaAluno 759014 -NotaMateria 1234 -Nota 6.0
+
+Resultado Esperado:
+- Média calculada: (8.0 + 7.0) * 0.8 + (6.0 * 0.2) = 12.0 * 0.8 + 1.2 = 10.8
+- Status: "APROVADO"
+
+2.3 Teste Positivo: Calcular Média com Aluno em Recuperação
+
+Cenário Preparatório:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P1" -NotaAluno 999999 -NotaMateria 1234 -Nota 3.0
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P2" -NotaAluno 999999 -NotaMateria 1234 -Nota 2.0
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "T" -NotaAluno 999999 -NotaMateria 1234 -Nota 5.0
+
+Resultado Esperado:
+- Média calculada: (3.0 + 2.0) * 0.8 + (5.0 * 0.2) = 4.0 * 0.8 + 1.0 = 4.2
+- Status: "Em Recuperação"
+
+2.4 Teste Negativo: Calcular Média para Aluno Inexistente
+
+Comando:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -FechaMedia 12345
+
+Erro Esperado:
+- Mensagem de erro indicando que o aluno não foi encontrado
+
+2.5 Teste Negativo: Calcular Média com Notas Incompletas
+
+Cenário Preparatório:
+java -cp "lib\commons-cli-1.9.0.jar;bin" br.fsa.GerenciaFaculdade -tipoAvaliação "P1" -NotaAluno 759014 -NotaMateria 6969 -Nota 7.0
+
+Resultado Esperado:
+- Mensagem indicando que há notas faltantes para a matéria 6969
+- Cálculo normal para matérias com todas as notas
